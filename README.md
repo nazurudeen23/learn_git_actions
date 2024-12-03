@@ -1,2 +1,2 @@
 # learn_git_actions
-Github Actions CI/CD 
+GitHub Actions CI/CD 
