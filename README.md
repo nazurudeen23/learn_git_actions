@@ -1,4 +1,3 @@
-# learn_git_actions
+# Learn Git Actions
 
-GitHub Actions CI/CD
-
+GitHub Actions Continuous Integration (CI) and Continuous Deployment (CD) process.
